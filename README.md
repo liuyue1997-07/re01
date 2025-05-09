@@ -8,7 +8,7 @@
 
 [members](./members) 目录下为所有成员提交的个人信息，一人一个 json 文件。
 
-## 课程目录1
+## 课程目录
 
 [点击此处查看知识图谱](https://metaisland.feishu.cn/mindnotes/bmncnVm87LbPlQF0jigDuSegubd#mindmap)
 
